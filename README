@@ -1,0 +1,2 @@
+Creates a theme manifest file using a project configuration file.
+Used to simplify the creation and update of AndroidManifest.xml files.
